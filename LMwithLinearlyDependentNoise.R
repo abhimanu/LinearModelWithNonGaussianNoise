@@ -1,6 +1,6 @@
 # Author Abhimanu Kumar
 # This R script needs forecast package
-# To run this script type source(".R")
+# To run this script read the accompanied pdf doc
 
 # discard warnings to avoid clutter on console
 #options(warn=-1)
